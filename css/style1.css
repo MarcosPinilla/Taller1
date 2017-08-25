@@ -1,0 +1,46 @@
+
+/* para los parrafos el estilo ubuntu*/
+p{
+	font-family: Ubuntu;
+}
+/* para el parrafo con id introtext un tamaño de 20px*/
+#introtext{
+	font-size: 20px;
+}
+/*para el center con id centerintro un padding de arriba de 20px*/
+#centerintro{
+	padding-top: 20px;
+}
+/* para los parrafos de id titlecard un tamaño de 24px*/
+#titlecard{
+	font-size: 24px;
+}
+/* para los parrafos de id descard un tamaño de 14px*/
+#descard{
+	font-size: 14px;
+}
+/* para el div que contiene la imagen de fondo un ancho de 100%*/
+.imgfondo{
+	width: 100%
+}
+/*para la imagen de fondo un ancho de 100%*/
+.fondo1{
+	width: 100%
+}
+/*para los parrafos de id modeltittle un tamaño de 20px, un padding a la izquierda de 200 px y fuente Ubuntu*/
+#modeltittle{
+	font-family: Ubuntu;
+	font-size: 20px;
+	padding-left: 200px;
+}
+/*para los parrafos de id descard1 un tamaño de 14px, un padding a la izquierda de 200 px y fuente Ubuntu*/
+#descard1{
+	font-family: Ubuntu;
+	font-size: 14px;
+	padding-left: 200px;
+}
+/*para las imagenes de modelos la clase pic tendra una flotacion a la izquierda y un ancho del 25%*/
+.pic{
+	float: left;
+	width: 25%;
+}
